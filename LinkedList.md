@@ -1,19 +1,19 @@
-nth node from end.
-detect cycle
-detect start of cycle
-detect length of cycle
-insert in sorted list
-intersection of two list
-middle of list
-reverse list
-reverse pair
-reverse k
-display from end
-even and odd length
-sort list
-is palindrom
-clone list with random pointer 
-last n%k node = modular node
-n/k th node
-split list (even odd)
-merge two sorted list 
+- nth node from end.
+- detect cycle
+- detect start of cycle
+- detect length of cycle
+- insert in sorted list
+- intersection of two list
+- middle of list
+- reverse list
+- reverse pair
+- reverse k
+- display from end
+- even and odd length
+- sort list
+- is palindrom
+- clone list with random pointer 
+- last n%k node = modular node
+- n/k th node
+- split list (even odd)
+- merge two sorted list 
