@@ -1,19 +1,76 @@
+### LinkedList
 - nth node from end.
 - detect cycle
-- detect start of cycle
-- detect length of cycle
-- insert in sorted list
-- intersection of two list
-- middle of list
+- start of cycle
+- length of cycle
+- is length even and odd
+- find middle of list
+- is palindrom
+- sort list
 - reverse list
 - reverse pair
 - reverse k
+- insert in sorted list
 - display from end
-- even and odd length
-- sort list
-- is palindrom
 - clone list with random pointer 
 - last n%k node = modular node
 - n/k th node
+- find intersection of two list
 - split list (even odd)
-- merge two sorted list 
+- merge two sorted list
+- add two numbers
+
+### Stack
+- check balance of parantheses
+- infix to postfix conversion
+- postfix evaluation
+- infix evaluation in one pass
+- design stack to getMinimum in O(1)
+- One queue using two stacks
+- One stack usign two queues
+- intersection of lists
+- find span *
+- max area under histogram *
+- is all successive pair in stack
+- remove duplicate adjacents in list
+- reverse stack
+
+### Queue
+- reverse queue
+- queue using two stacks
+- max in sliding window
+- mix first half and second half
+- reverse first k elments
+
+### BinaryTree
+- preorder traversal
+- postorder traversal
+- inorder traversal
+- level order traversal
+- find max
+- find element
+- insert element
+- find size of tree
+- print level order in reverse
+- find height of tree
+- find minimum depth(first leaf node)
+- find deepest node
+- delete element
+- number of leaves
+- number of full nodes
+- number of half nodes
+- two trees identical
+- find diameter of tree
+- find level having max elements
+- find level having max sum
+- print all root to leaf paths
+- path with given sum
+- sum of all elements in tree
+- convert tree to mirror
+- check two trees mirror
+- create tree using inorder and preorder
+- create tree using inorder and postorder
+- pring all ancestors of a node
+- lca of two nodes
+- zigzag tree traversal
+- find vertical sum
