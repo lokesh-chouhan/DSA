@@ -95,3 +95,30 @@
 - union and intersection of two bst
 - print between k1 and k2 of bst
 
+### Searching
+
+- Duplicate in array ?
+- find max repeated number in array
+- find first element which is repeated in array
+- find missing element between 1 to n
+- find element odd number of times
+- find two repeating element
+- find two elements in array whose sum equals k.
+- find three elements in array i + j = k
+- find two elements whose sum is closest to zero
+- find two elements whose sum is closest to k
+- find three elements whose sum is k
+- find three elemetns whose sum is closest to 0
+- find three elements whose sum is closest to k
+- find element in rotated array
+- find greatest element in increasing-decreasing array
+- find first occurrence of an element
+- find last occurence of an element
+- find number of elements
+- find majority element
+- find local minimum
+- find element in sorted matrix
+- separate even and odd in array
+- separate 0 and 1 in array
+- sort 0,1,2 
+
