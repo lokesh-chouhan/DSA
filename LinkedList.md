@@ -1,24 +1,24 @@
 ### LinkedList
 - nth node from end.
-- detect cycle
-- start of cycle
-- length of cycle
-- is length even and odd
+- detect cycle list
+- start of cycle list
+- length of cycle list
+- is length even and odd list
 - find middle of list
-- is palindrom
+- is palindrom list
 - sort list
 - reverse list
-- reverse pair
-- reverse k
+- reverse pair list
+- reverse k list
 - insert in sorted list
-- display from end
-- clone list with random pointer 
-- last n%k node = modular node
-- n/k th node
+- display from end list
+- clone list with random pointer list
+- last n%k node = modular node list
+- n/k th node list
 - find intersection of two list
-- split list (even odd)
+- split list (even odd) list
 - merge two sorted list
-- add two numbers
+- add two numbers list
 
 ### Stack
 - check balance of parantheses
@@ -43,28 +43,28 @@
 - reverse first k elments
 
 ### BinaryTree
-- preorder traversal
-- postorder traversal
-- inorder traversal
-- level order traversal
-- find max
-- find element
-- insert element
+- preorder traversal tree 
+- postorder traversal tree
+- inorder traversal tree
+- level order traversal tree
+- find max tree
+- find element tree
+- insert element tree
 - find size of tree
-- print level order in reverse
+- print level order in reverse tree
 - find height of tree
-- find minimum depth(first leaf node)
-- find deepest node
-- delete element
-- number of leaves
-- number of full nodes
-- number of half nodes
-- two trees identical
+- find minimum depth(first leaf node) tree
+- find deepest node tree
+- delete element tree
+- number of leaves tree
+- number of full nodes tree
+- number of half nodes tree
+- two trees identical 
 - find diameter of tree
 - find level having max elements
 - find level having max sum
-- print all root to leaf paths
-- path with given sum
+- print all root to leaf paths tree
+- path with given sum tree
 - sum of all elements in tree
 - convert tree to mirror
 - check two trees mirror
@@ -73,4 +73,21 @@
 - pring all ancestors of a node
 - lca of two nodes
 - zigzag tree traversal
-- find vertical sum
+- find vertical sum tree
+- fill nextSibling pointer tree
+
+### GenericTree (firstChild, nextSibling)
+
+
+
+### BinarySearchTree
+
+- Find an element in bst
+- find max in bst
+- find min in bst
+- insert in bst
+- delete in bst
+- find lca in bst
+- is given tree a bst
+- 
+
