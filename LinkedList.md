@@ -89,5 +89,9 @@
 - delete in bst
 - find lca in bst
 - is given tree a bst
-- 
+- convert bst to dll
+- convert sorted dll to bst
+- convert sorted array to bst
+- union and intersection of two bst
+- print between k1 and k2 of bst
 
