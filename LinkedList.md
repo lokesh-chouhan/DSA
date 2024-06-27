@@ -122,3 +122,10 @@
 - separate 0 and 1 in array
 - sort 0,1,2 
 
+### String 
+
+- pattern matching (KMP) **
+
+### PriorityQueue
+
+- Maximum in window **
